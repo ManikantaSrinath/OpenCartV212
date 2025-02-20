@@ -1,0 +1,67 @@
+21:37:37.214 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\G Swarnalekha\eclipse-workspace\OpenCartV212\testng.xml
+
+21:47:39.766 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\G Swarnalekha\eclipse-workspace\OpenCartV212\testng.xml"
+21:47:39.983 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\G Swarnalekha\eclipse-workspace\OpenCartV212\testng.xml
+
+21:50:09.054 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\G Swarnalekha\eclipse-workspace\OpenCartV212\testng.xml"
+21:50:09.252 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\G Swarnalekha\eclipse-workspace\OpenCartV212\testng.xml
+
+21:50:43.264 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\G Swarnalekha\eclipse-workspace\OpenCartV212\testng.xml"
+21:50:43.461 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\G Swarnalekha\eclipse-workspace\OpenCartV212\testng.xml
+
+21:51:03.790 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\G Swarnalekha\eclipse-workspace\OpenCartV212\testng.xml"
+21:51:03.984 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\G Swarnalekha\eclipse-workspace\OpenCartV212\testng.xml
+
+21:51:35.655 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\G Swarnalekha\eclipse-workspace\OpenCartV212\testng.xml"
+21:51:35.853 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\G Swarnalekha\eclipse-workspace\OpenCartV212\testng.xml
+
+15:41:34.033 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\G Swarnalekha\eclipse-workspace\OpenCartV212\docker.xml"
+15:41:34.485 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\G Swarnalekha\eclipse-workspace\OpenCartV212\docker.xml
+
+15:41:34.854 [main] INFO  TestCases.AccountRegistrationTest - ******AccountRegistrationTest----->JUST_STARTED*****
+15:41:51.766 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\G Swarnalekha\eclipse-workspace\OpenCartV212\docker.xml"
+15:41:52.003 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\G Swarnalekha\eclipse-workspace\OpenCartV212\docker.xml
+
+15:41:52.233 [main] INFO  TestCases.AccountRegistrationTest - ******AccountRegistrationTest----->JUST_STARTED*****
+15:43:41.502 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\G Swarnalekha\eclipse-workspace\OpenCartV212\docker.xml"
+15:43:41.748 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\G Swarnalekha\eclipse-workspace\OpenCartV212\docker.xml
+
+15:43:48.738 [main] INFO  TestCases.AccountRegistrationTest - ******AccountRegistrationTest----->JUST_STARTED*****
+15:43:49.258 [main] INFO  TestCases.AccountRegistrationTest - *****Entering_Details******
+15:43:50.697 [main] INFO  TestCases.AccountRegistrationTest - ****Conformation******
+15:43:50.782 [main] INFO  TestCases.AccountRegistrationTest - *******Test Finished*******
+15:43:53.431 [main] INFO  TestCases.AccountLoginTest - ***********Starting the case************
+15:43:54.434 [main] INFO  TestCases.AccountLoginTest - **********loginpage**********
+15:43:55.320 [main] INFO  TestCases.AccountLoginTest - **********AccountPage**********
+15:43:55.397 [main] INFO  TestCases.AccountLoginTest - ******TestCompleted********
+16:10:28.940 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\G Swarnalekha\eclipse-workspace\OpenCartV212\docker.xml"
+16:10:29.366 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\G Swarnalekha\eclipse-workspace\OpenCartV212\docker.xml
+
+16:10:29.726 [main] INFO  TestCases.AccountRegistrationTest - ******AccountRegistrationTest----->JUST_STARTED*****
+16:30:48.008 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\G Swarnalekha\eclipse-workspace\OpenCartV212\testng.xml"
+16:30:48.295 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\G Swarnalekha\eclipse-workspace\OpenCartV212\testng.xml
+
+16:30:52.581 [main] INFO  TestCases.AccountRegistrationTest - ******AccountRegistrationTest----->JUST_STARTED*****
+16:30:52.977 [main] INFO  TestCases.AccountRegistrationTest - *****Entering_Details******
+16:30:54.153 [main] INFO  TestCases.AccountRegistrationTest - ****Conformation******
+16:30:54.197 [main] INFO  TestCases.AccountRegistrationTest - *******Test Finished*******
+16:30:56.498 [main] INFO  TestCases.AccountLoginTest - ***********Starting the case************
+16:30:57.032 [main] INFO  TestCases.AccountLoginTest - **********loginpage**********
+16:30:57.961 [main] INFO  TestCases.AccountLoginTest - **********AccountPage**********
+16:30:58.048 [main] INFO  TestCases.AccountLoginTest - ******TestCompleted********
+16:42:07.033 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\G Swarnalekha\eclipse-workspace\OpenCartV212\testng.xml"
+16:42:07.235 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\G Swarnalekha\eclipse-workspace\OpenCartV212\testng.xml
+
+16:42:34.254 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\G Swarnalekha\eclipse-workspace\OpenCartV212\testng.xml"
