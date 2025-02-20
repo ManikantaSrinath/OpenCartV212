@@ -44,3 +44,15 @@
 17:29:10.492 [main] INFO  TestCases.AccountLoginTest - **********loginpage**********
 17:29:11.360 [main] INFO  TestCases.AccountLoginTest - **********AccountPage**********
 17:29:11.418 [main] INFO  TestCases.AccountLoginTest - ******TestCompleted********
+20:48:43.409 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\G Swarnalekha\eclipse-workspace\OpenCartV212\testng.xml"
+20:48:43.763 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\G Swarnalekha\eclipse-workspace\OpenCartV212\testng.xml
+
+20:48:47.670 [main] INFO  TestCases.AccountRegistrationTest - ******AccountRegistrationTest----->JUST_STARTED*****
+20:48:48.080 [main] INFO  TestCases.AccountRegistrationTest - *****Entering_Details******
+20:48:49.250 [main] INFO  TestCases.AccountRegistrationTest - ****Conformation******
+20:48:49.342 [main] INFO  TestCases.AccountRegistrationTest - *******Test Finished*******
+20:48:52.965 [main] INFO  TestCases.AccountLoginTest - ***********Starting the case************
+20:48:53.776 [main] INFO  TestCases.AccountLoginTest - **********loginpage**********
+20:48:54.706 [main] INFO  TestCases.AccountLoginTest - **********AccountPage**********
+20:48:54.749 [main] INFO  TestCases.AccountLoginTest - ******TestCompleted********
